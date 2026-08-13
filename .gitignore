@@ -1,1 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VITS checkpoints
+*.pth
+logs/
+checkpoints/
+
+# Training logs
+*.log
+events.out.tfevents.*
+
+# Generated audio
+*.wav
+*.mp3
+*.flac
+*.spec.pt
+
+# Google Colab
+/content/
+
+# OS files
+.DS_Store
+Thumbs.db
