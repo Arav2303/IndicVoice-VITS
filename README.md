@@ -41,7 +41,7 @@ Speech Output
 
 ### Inference
 
-`notebooks/IndicVoice_Inference.ipynb`
+`notebooks/IndicVoice_V2_Inference.ipynb`
 
 Contains the inference pipeline and application interface.
 
