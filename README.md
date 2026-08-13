@@ -54,6 +54,7 @@ Contains the training workflow for the custom Hindi VITS model.
 # Important 
 
 Translation: Multilingual input/output
+
 Speech synthesis: Hindi female VITS
 
 ## Technologies
