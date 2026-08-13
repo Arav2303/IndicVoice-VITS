@@ -1,1 +1,11 @@
-
+torch
+numpy
+scipy
+librosa
+soundfile
+matplotlib
+tensorboard
+unidecode
+phonemizer
+gradio
+gdown
