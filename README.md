@@ -6,6 +6,10 @@ IndicVoice-VITS is a multilingual text processing and speech synthesis pipeline.
 
 The system accepts text input in different languages and can translate the input into a selected output language. The current speech synthesis stage uses a custom-trained Hindi female VITS model.
 
+## 🎥 Working Demo
+
+[▶️ Watch the IndicVoice-VITS Demo](https://www.youtube.com/watch?v=_9KU1zf6Reg)
+
 ## Current Capabilities
 
 - Multilingual text input
